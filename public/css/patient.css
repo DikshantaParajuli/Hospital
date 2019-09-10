@@ -1,0 +1,17 @@
+body{
+
+       background-image:url('loginbackground.jpeg');
+}
+
+
+.err{
+    color: red;
+    margin-left: 50px;
+}
+.logo{
+    width: 14%;
+    height: 22%;
+}
+.cardboard{
+    opacity: 0.8;
+}
